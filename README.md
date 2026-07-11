@@ -1,188 +1,302 @@
-# Hi there, I'm Nseabasi Uffot 👋
+<!-- ========================================= -->
+<!--             GitHub Profile README         -->
+<!-- ========================================= -->
 
-## Data Analyst | Audit, Risk & Compliance | CISA Certified
+<h1 align="center">Hi 👋, I'm Nseabasi Uffot</h1>
 
-I transform complex business, audit, and compliance data into actionable insights that help organizations reduce risk, improve controls, and make better decisions.
+<h3 align="center">
+Data Analyst • Audit • Risk • Compliance • Business Intelligence
+</h3>
 
-With 10+ years of IT experience and 8+ years specializing in Governance, Risk & Compliance (GRC), IT Audit, and Data Analytics, I combine analytical thinking with deep knowledge of regulatory frameworks to identify trends, automate reporting, and strengthen enterprise risk management.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1500&color=0078D7&center=true&vCenter=true&width=900&lines=Data+Analyst;IT+Audit+Professional;Risk+%26+Compliance+Specialist;Power+BI+Developer;SQL+%7C+Excel+%7C+Python;Turning+Data+Into+Business+Insights" />
+</p>
 
----
+<p align="center">
 
-## 🚀 About Me
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&logo=github" />
+</a>
 
-- 📊 Data Analyst specializing in Audit, Risk & Compliance Analytics
-- 🔐 CISA Certified Information Systems Auditor
-- 📈 Passionate about turning raw data into executive-ready dashboards and business insights
-- 🛡️ Experienced in SOX, SOC 2, ISO 27001, NIST, COBIT, COSO, PCI-DSS, HIPAA & GDPR
-- ☁️ Experienced auditing cloud environments including Microsoft Azure and AWS
-- 🤝 Strong communicator who bridges the gap between business stakeholders and technical teams
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue"/>
 
----
+<img src="https://img.shields.io/badge/Open%20To-Data%20Analytics-success?style=for-the-badge"/>
 
-## 💼 Areas of Expertise
+<img src="https://img.shields.io/badge/Location-Houston,%20Texas-blue?style=for-the-badge"/>
 
-- Data Analytics
-- Risk Analytics
-- IT Audit Analytics
-- Compliance Reporting
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
-- Data Visualization
-- Internal Controls Testing
-- Process Improvement
-- Data Quality Analysis
-- Root Cause Analysis
-- Risk Assessment
-- Vendor Risk Analytics
-- Regulatory Compliance
-- Executive Reporting
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 👨‍💻 About Me
+
+<img align="right" width="390" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+
+🎯 Data Analyst specializing in **Audit, Risk & Compliance Analytics**
+
+🔐 **CISA Certified Information Systems Auditor**
+
+📊 Passionate about transforming raw enterprise data into actionable business intelligence.
+
+💡 Experienced building dashboards, identifying trends, improving controls, and supporting executive decision-making.
+
+☁️ Audit experience across **AWS**, **Microsoft Azure**, **Oracle**, **SAP**, and **Workday** environments.
+
+📈 Currently expanding my analytics capabilities in **Python**, **Machine Learning**, and **AI-powered Analytics**.
+
+---
+
+# 🚀 Tech Stack
 
 ### Data Analytics
 
-- SQL
-- Microsoft Excel (Advanced)
-- Power BI
-- Tableau
-- ACL Analytics
-- IDEA
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+
+</p>
+
+---
+
+### Cloud Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,aws"/>
+
+</p>
+
+---
 
 ### Databases
 
-- SQL Server
-- Oracle
-- SAP
-- Workday
+<p>
 
-### Programming
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-- SQL
-- Python (Learning for Data Analytics)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
-### Business Intelligence
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white"/>
 
-- Power BI
-- Tableau
-- Excel Dashboards
-- Pivot Tables
-- Power Query
-- Power Pivot
-
-### Audit & GRC Platforms
-
-- AuditBoard
-- Archer
-- ServiceNow GRC
-- Workiva
-- TeamMate
-
-### Compliance Frameworks
-
-- SOX 404
-- NIST CSF
-- NIST 800-53
-- NIST 800-171
-- ISO 27001
-- COBIT
-- COSO
-- CIS Controls
-- SOC 2
-- PCI-DSS
-- HIPAA
-- GDPR
+</p>
 
 ---
 
-## 📊 Featured Analytics Projects
+### Tools
 
-### Audit Analytics Dashboard
-- Built executive dashboards to monitor audit findings, remediation status, and control effectiveness.
-- Identified trends in recurring control failures.
-- Automated KPI reporting for leadership.
+<p>
 
-### Risk Assessment Analytics
-- Analyzed enterprise risk data to prioritize remediation efforts.
-- Developed risk heat maps and scoring models.
-- Improved visibility into organizational risk posture.
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoft-excel"/>
 
-### SOX IT Controls Reporting
-- Performed data-driven testing of IT General Controls (ITGCs).
-- Automated evidence tracking and compliance reporting.
-- Improved audit efficiency through analytics.
+<img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat"/>
 
-### Compliance KPI Dashboard
-- Built interactive Power BI dashboards to visualize:
-  - Open audit findings
-  - Risk trends
-  - Vendor risk
-  - Compliance status
-  - Control maturity
-  - Remediation progress
+<img src="https://img.shields.io/badge/AuditBoard-0055FF?style=flat"/>
+
+<img src="https://img.shields.io/badge/ServiceNow_GRC-00A300?style=flat"/>
+
+<img src="https://img.shields.io/badge/Archer-GRC-red?style=flat"/>
+
+<img src="https://img.shields.io/badge/Workiva-005BAC?style=flat"/>
+
+</p>
 
 ---
 
-## 📈 Current Focus
+# 🛡️ Compliance & Audit Expertise
 
-- Advanced Power BI
-- Python for Data Analytics
-- Machine Learning for Risk Analytics
-- Data Storytelling
-- AI for Audit & Compliance
-- Predictive Risk Analytics
+<p>
+
+<img src="https://img.shields.io/badge/SOX-404-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NIST-CSF-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ISO-27001-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOC-2-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/COBIT-Framework-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/COSO-Controls-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PCI-DSS-critical?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HIPAA-Compliance-blue?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 📊 GitHub Statistics
 
-- Python
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📁 Featured Projects
+
+### 📊 Audit Analytics Dashboard
+
+- Executive Power BI dashboards
+- Audit KPI reporting
+- Risk scoring
+- Findings tracking
+- Remediation metrics
+
+---
+
+### 📈 Enterprise Risk Analytics
+
+- Risk heat maps
+- Control effectiveness
+- Root cause analysis
+- Trend reporting
+- Executive dashboards
+
+---
+
+### 📉 SOX ITGC Analytics
+
+- Automated testing
+- SQL analytics
+- Exception reporting
+- Evidence tracking
+- Compliance dashboards
+
+---
+
+### 🤖 AI for Audit
+
+- Intelligent reporting
+- Process automation
+- Predictive analytics
+- Compliance monitoring
+
+---
+
+# 🌱 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,azure,git,github"/>
+
+</p>
+
+- Machine Learning
+- Microsoft Fabric
+- Azure Data Factory
 - Pandas
 - NumPy
 - Scikit-Learn
-- Microsoft Fabric
-- Azure Data Services
 - Advanced DAX
-- Data Engineering Fundamentals
+- AI for Data Analytics
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-- ✅ CISA – Certified Information Systems Auditor
-- 🎯 CompTIA A+
-- 📚 Pursuing CISM
-- 📚 Pursuing CISSP
+🏅 CISA — Certified Information Systems Auditor
 
----
+🏅 CompTIA A+
 
-## 📊 GitHub Goals
+📚 Currently pursuing:
 
-This GitHub profile showcases projects focused on:
-
-- Data Analytics
-- Business Intelligence
-- SQL
-- Power BI
-- Excel Analytics
-- Python
-- Audit Analytics
-- Risk Analytics
-- Compliance Automation
-- Dashboard Design
-- Process Automation
-- AI-powered Data Analytics
+- CISM
+- CISSP
 
 ---
 
-## 📫 Let's Connect
+# 🎯 Career Interests
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- Portfolio: *(Add your portfolio URL)*
-- Email: nseelroi@gmail.com
+✔ Data Analytics
+
+✔ Business Intelligence
+
+✔ Audit Analytics
+
+✔ Risk Analytics
+
+✔ Compliance Analytics
+
+✔ Governance, Risk & Compliance (GRC)
+
+✔ SQL Development
+
+✔ Dashboard Development
+
+✔ Data Storytelling
+
+✔ AI-Powered Analytics
 
 ---
 
-> **"Great decisions begin with trustworthy data, effective controls, and meaningful insights."**
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:nseelroi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+📊 Turning Data into Decisions • 🔐 Strengthening Controls • 📈 Driving Business Value
+
+</h3>
